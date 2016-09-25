@@ -5,17 +5,17 @@ themselves in front of the entire company (in just a sentence or two). Even thou
 
 everything was done efficiently, it still took quite a while! Similarly, when passing out the
 
-latest T­shirt or water bottle to celebrate a company milestone, it can sometimes take a
+latest TÂ­shirt or water bottle to celebrate a company milestone, it can sometimes take a
 
 while to get things passed out.
 
-Our marketing team pitched a new way of trying to distribute the next t­shirt at the next
+Our marketing team pitched a new way of trying to distribute the next tÂ­shirt at the next
 
-offsite, and came up with a plan – given everyone was going to be in a big circle anyway,
+offsite, and came up with a plan â€“ given everyone was going to be in a big circle anyway,
 
 why not just pass things out there? With a few people given a box of coffee mugs to start
 
-with, each person would take turns – if they had more than one mug – passing one to the
+with, each person would take turns â€“ if they had more than one mug â€“ passing one to the
 
 person to their left, and one to the person to their right, with success declared when
 
@@ -25,14 +25,15 @@ ended up with none).
 
 They tasked engineering with figuring out how long it would take, if each pass took one
 
-second. We’re passing the task along to you!
+second. Weâ€™re passing the task along to you!
 
 Input consists of two lines; the first is the number of employees that will be present, and
 
-the second is a space­delimited set of values of the number of mugs that the person at that
+the second is a spaceÂ­delimited set of values of the number of mugs that the person at that
 
 position starts with. */
 
+/* Daniel Levi Guise, UMD 2nd year CS Major */
 public class RallyInternPuzzle2017 {
 
 	public static void main(String[] args) {
